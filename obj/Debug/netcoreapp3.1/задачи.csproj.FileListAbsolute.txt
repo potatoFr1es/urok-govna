@@ -1,0 +1,13 @@
+C:\Users\torbe\OneDrive\Desktop\проекты\задачи\bin\Debug\netcoreapp3.1\задачи.exe
+C:\Users\torbe\OneDrive\Desktop\проекты\задачи\bin\Debug\netcoreapp3.1\задачи.deps.json
+C:\Users\torbe\OneDrive\Desktop\проекты\задачи\bin\Debug\netcoreapp3.1\задачи.runtimeconfig.json
+C:\Users\torbe\OneDrive\Desktop\проекты\задачи\bin\Debug\netcoreapp3.1\задачи.runtimeconfig.dev.json
+C:\Users\torbe\OneDrive\Desktop\проекты\задачи\bin\Debug\netcoreapp3.1\задачи.dll
+C:\Users\torbe\OneDrive\Desktop\проекты\задачи\bin\Debug\netcoreapp3.1\задачи.pdb
+C:\Users\torbe\OneDrive\Desktop\проекты\задачи\obj\Debug\netcoreapp3.1\задачи.csprojAssemblyReference.cache
+C:\Users\torbe\OneDrive\Desktop\проекты\задачи\obj\Debug\netcoreapp3.1\задачи.AssemblyInfoInputs.cache
+C:\Users\torbe\OneDrive\Desktop\проекты\задачи\obj\Debug\netcoreapp3.1\задачи.AssemblyInfo.cs
+C:\Users\torbe\OneDrive\Desktop\проекты\задачи\obj\Debug\netcoreapp3.1\задачи.csproj.CoreCompileInputs.cache
+C:\Users\torbe\OneDrive\Desktop\проекты\задачи\obj\Debug\netcoreapp3.1\задачи.dll
+C:\Users\torbe\OneDrive\Desktop\проекты\задачи\obj\Debug\netcoreapp3.1\задачи.pdb
+C:\Users\torbe\OneDrive\Desktop\проекты\задачи\obj\Debug\netcoreapp3.1\задачи.genruntimeconfig.cache
