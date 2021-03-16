@@ -46,7 +46,7 @@ namespace задачи
            a[nom_max] = min;
            for (i = 0; i<n;i++)
            {
-               Console.WriteLine(a[i]);
+               Console.Write(a[i]+" ");
            }
 
           Console.ReadKey();
